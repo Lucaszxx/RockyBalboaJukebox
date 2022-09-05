@@ -5,7 +5,10 @@
 
 <p>- Criei nele, as funções básicas que todo player de música tem, porém, com uma personalização temática do Rocky.</p>
 <div align="center">
+  <h2>APP/MOBILE</h2>
   <img align="center" width="40%" src="https://github.com/Lucaszxx/RockyBalboaJukebox/blob/master/GitImages/mobile%20foto.jpeg">  </img>
   <img align="center" width="40%" src="https://github.com/Lucaszxx/RockyBalboaJukebox/blob/master/GitImages/mobile%20foto2.jpeg"></img>
+  <h2>DESKTOP</h2>
+  <img width="80%" src="https://github.com/Lucaszxx/RockyBalboaJukebox/blob/master/GitImages/desktop.png"></img>
  </div>
 
