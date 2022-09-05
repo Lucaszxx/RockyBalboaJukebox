@@ -4,3 +4,8 @@
 <p>- O projeto consiste basicamente em uma Jukebox com algumas das músicas mais marcantes dos filmes do Rocky Balboa para se escutar durante os treinos.</p>
 
 <p>- Criei nele, as funções básicas que todo player de música tem, porém, com uma personalização temática do Rocky.</p>
+<div align="center">
+  <img align="center" width="40%" src="https://github.com/Lucaszxx/RockyBalboaJukebox/blob/master/GitImages/mobile%20foto.jpeg">  </img>
+  <img align="center" width="40%" src="https://github.com/Lucaszxx/RockyBalboaJukebox/blob/master/GitImages/mobile%20foto2.jpeg"></img>
+ </div>
+
