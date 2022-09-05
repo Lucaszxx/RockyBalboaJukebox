@@ -1,0 +1,47 @@
+{
+    "musicas" :
+    [
+        {
+            "id": 1,
+            "nome": "Eye Of The Tiger",
+            "artista": "Survivor",
+            "imagem": "https://lucaszx5music.s3.sa-east-1.amazonaws.com/Eye_of_the_Tiger.png",
+            "src": "https://lucaszx5music.s3.sa-east-1.amazonaws.com/Eye+of+the+Tiger.mp3"
+        },
+        {
+            "id": 2,
+            "nome": "Burning Heart",
+            "artista": "Survivor",
+            "imagem": "https://lucaszx5music.s3.sa-east-1.amazonaws.com/Burning+Heart.png",
+            "src": "https://lucaszx5music.s3.sa-east-1.amazonaws.com/Burning+Heart.mp3"
+        },
+        {
+            "id": 3,
+            "nome": "War",
+            "artista": "Vince DiCola",
+            "imagem": "https://lucaszx5music.s3.sa-east-1.amazonaws.com/default.jpg",
+            "src": "https://lucaszx5music.s3.sa-east-1.amazonaws.com/War+(Rocky+IV+Score+Mix).mp3"
+        },
+        {
+            "id": 4,
+            "nome": "Going The Distance",
+            "artista": "Bill Conti",
+            "imagem": "https://lucaszx5music.s3.sa-east-1.amazonaws.com/default.jpg",
+            "src": "https://lucaszx5music.s3.sa-east-1.amazonaws.com/Going+The+Distance+(From+The+Rocky+Soundtrack).mp3"
+        },
+        {
+            "id": 5,
+            "nome": "The Finall Bell",
+            "artista": "Bill Conti",
+            "imagem": "https://lucaszx5music.s3.sa-east-1.amazonaws.com/default.jpg",
+            "src": "https://lucaszx5music.s3.sa-east-1.amazonaws.com/Bill+Conti+-+The+Final+Bell+(Rocky).mp3"
+        },
+        {
+            "id": 6,
+            "nome": "Hearts On Fire",
+            "artista": "John Cafferty",
+            "imagem": "https://lucaszx5music.s3.sa-east-1.amazonaws.com/Burning+Heart.png",
+            "src": "https://lucaszx5music.s3.sa-east-1.amazonaws.com/John+Cafferty+-+Hearts+On+Fire+(Rocky+IV)+.mp3"
+        }
+    ]
+}
